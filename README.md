@@ -19,16 +19,8 @@ The game allows a user to play against the computer over multiple rounds with a 
 * Modular Programming
 
 
-📂 Project Structure
-dice-roll-game/
-│── main.py
-│── ui.py
-│── game_logic.py
-│── scoreboard.py
-│── utils.py
-
-
 ▶️ How to Run
+
 python main.py
 
 
